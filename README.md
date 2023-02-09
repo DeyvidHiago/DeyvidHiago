@@ -1,8 +1,6 @@
-### Ola! Eu sou Deyvd Hiago! 🧑🏽‍💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((httpps://https://www.linkedin.com/in/deyvid-hiago/)])
 
-[!(LinkedInd)][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](httpps://https://www.linkedin.com/in/deyvid-hiago/)
-
-[!(Instagram)][https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/deyvid_hiago/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deyvid_hiago/)
 
 ![Deyvid GitHub Status](https://github-readme-stats.vercel.app/api?username=DeyvidHiago&show_icons=true&theme=dracula)
 
